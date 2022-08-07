@@ -65,4 +65,7 @@ function addMessageToThread(message) {
     document.getElementById("message-list").appendChild(messageListItem);
     }
 
+    createFormListener();
+
+
 
